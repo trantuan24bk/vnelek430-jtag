@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppForm", "AppForm\AppForm.csproj", "{45960E67-09C6-4518-8E62-8DD586D69B33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ds|Any CPU = ds|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45960E67-09C6-4518-8E62-8DD586D69B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45960E67-09C6-4518-8E62-8DD586D69B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45960E67-09C6-4518-8E62-8DD586D69B33}.ds|Any CPU.ActiveCfg = Release|Any CPU
+		{45960E67-09C6-4518-8E62-8DD586D69B33}.ds|Any CPU.Build.0 = Release|Any CPU
+		{45960E67-09C6-4518-8E62-8DD586D69B33}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{45960E67-09C6-4518-8E62-8DD586D69B33}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

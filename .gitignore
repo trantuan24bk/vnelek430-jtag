@@ -1,0 +1,24 @@
+# Ignore these files
+
+*.aps
+*.cache
+*.Cache
+*.dbgdt
+*.r43
+*.resources
+*.s43
+*.idb
+
+*.dep
+*.exp
+*.htm
+*.force
+*.ilk
+*.manifest
+*.mpi
+*.obj
+*.out
+*.pdb
+*.pch
+*.pdb
+

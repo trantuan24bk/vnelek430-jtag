@@ -1,0 +1,44 @@
+﻿MSP430 Programmer - Vnelektronics Co.,Ltd
+Website	: http://vnelek.vn
+Email	: support@vnelek.vn
+
+For more information please reference:
+"MSP430 Programming Via the JTAG Interface User's Guide"-
+Literature #SLAU320 (previously SLAA149), available at TI's homepage: www.ti.com
+
+Software Package Version:   1.0
+Initial Release:            10/03/2014
+Last Change:                15/03/2014
+
+Known Issues:
+
+- Chưa kiểm tra việc nạp chương trình trên nhiều dòng chip khác nhau.
+- Chưa hoàn thành giao diện chương trình (GUI).
+
+
+Version history:       
+
+Vers.| Date     	|Author		| Comments
+1.00 | 10/03/2014 	|Tran Tuan	| Initial .zip Release
+								- Giao tiếp HID
+								- VnelekApp:
+								  + Thêm vào danh sách những file mới mở gần đây nhất.
+								  + Thêm menu (Copy/Clear/Save) vào Message log.
+								- Vnelek430:
+								  + Có thể Detect device.
+								  + Có thể Erase device.
+								  + Đã Program được trên: G2553, G2452, G2231.
+								  + Chưa Detect và chưa Program được trên: F2013.
+1.01 | xx/xx/xxxx	|Tran Tuan	|
+1.01 | xx/xx/xxxx	|Tran Tuan	|
+
+
+Software Summary:
+Project này chứa các thư mục và file sau đây.
+
+- HID App	: Giao diện chương trình điều khiển mạch nạp.
+- Vnelek430	: Mã chương trình nhúng trên MSP430, sử dụng kit MSP430F55xx Development Kit để nạp chương trình.
+- HID Config: Chứa mã cấu hình MSP430 sử dụng giao tiếp USB - HID.
+
+
+

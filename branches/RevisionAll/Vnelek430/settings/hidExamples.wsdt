@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>H3_Example/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>279</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>965</ColumnWidth1><ColumnWidth2>253</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build></Static>
+    <Windows>
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25528-26428</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>H3_Example</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-18090-13106</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\H3_Example\main.c</Filename><XPos>0</XPos><YPos>95</YPos><SelStart>1304</SelStart><SelEnd>1304</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\H3_Example\ProgrammerX\Replicator430X.h</Filename><XPos>0</XPos><YPos>162</YPos><SelStart>8038</SelStart><SelEnd>8038</SelEnd></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\H3_Example\ProgrammerX\Config430X.h</Filename><XPos>0</XPos><YPos>144</YPos><SelStart>6242</SelStart><SelEnd>6242</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\H3_Example\main.h</Filename><XPos>0</XPos><YPos>71</YPos><SelStart>2401</SelStart><SelEnd>2401</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\H3_Example\USB_config\descriptors.h</Filename><XPos>0</XPos><YPos>67</YPos><SelStart>4944</SelStart><SelEnd>4944</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00602a68><key>iaridepm.enu1</key></Toolbar-00602a68></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>442</Bottom><Right>353</Right><x>-2</x><y>-2</y><xscreen>267</xscreen><yscreen>201</yscreen><sizeHorzCX>195461</sizeHorzCX><sizeHorzCY>293003</sizeHorzCY><sizeVertCX>259883</sizeVertCX><sizeVertCY>647230</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>199</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>201</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>293003</sizeHorzCY><sizeVertCX>195461</sizeVertCX><sizeVertCY>293003</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
